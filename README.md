@@ -1,4 +1,4 @@
-c# Sahayak - Digital Health & Psychological Support System
+MindGuardian - Digital Health & Psychological Support System
 
 A comprehensive digital health platform that provides AI-powered symptom checking, medicine reminders, appointment booking, and psychological support for students and employees.
 
